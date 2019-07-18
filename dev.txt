@@ -2,7 +2,3 @@ This message is for the testing for the git tool. We have to see how it will wor
 This time we are second line for the file.
 We have to check how it will be pushed.
 
-
-
-
-This is for checking forr the reset command in git.
